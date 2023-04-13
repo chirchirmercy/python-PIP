@@ -1,0 +1,100 @@
+
+f="mercy"
+m=f.center(10,"t")
+print (m)
+
+output= ttmercyttt
+
+#.append 
+add new item to bottom of the list
+
+names=["mercy","rose","caren"]
+names.append("faith")
+print(names)
+
+output=["mercy","caren","faith"]
+
+
+#.extend
+add new list to current list
+
+names=["grace","rose","caren"]
+names2=("cathy","ann")
+names.extend(names2)
+print(names)
+
+output=["grace","rose","caren","cathy","ann"]
+
+#.insert
+insert a value/string to a given index position
+
+schools=["pangani","mugumo","koroto","torongo"]
+schools.insert(3,"kabarak")
+print(schools)
+
+output=["pangani","mugumo","kabarak","koroto","torongo"]
+
+#pop
+removes and return last item in a list
+places=["nakuru","nairobi","kitale"]
+places .pop()
+print(places)
+
+output="kitale"
+
+//slicing-accessing range of characters in a string through their index position
+
+s= "python"
+s[1:4]
+output="yth"
+
+
+d="Akirachix"
+[5:]
+output="chix"
+
+
+Given the string p = "Hello World", 
+How do you print the first character of each word using positive number indexing?
+p[0]
+p[6]
+p[13]
+
+How do you pring the last character of each word using negative number indexing
+p="hello world"
+p[-7] 
+print(p)
+output= o
+
+p[-1]
+output= d
+
+#reverse
+reverse order of items
+
+fruits=["mango","kiwi","pineapple"]
+fruits.reverse()
+print(fruits)
+
+output("pineapple","kiwi","mango")
+
+dictionary
+
+country={"kenya":254,"uganda":256}
+
+print country["kenya"]
+output=254
+
+to add another country=
+country["tanzania"]=257
+print (country)
+output=country={"kenya":254,"uganda":256"tanzania":257}
+
+84//2=42.0
+84/2=42
+(interger division)// returns output with a decimal
+(division)/ returns output without a decimal
+
+
+
+
